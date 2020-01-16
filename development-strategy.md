@@ -17,6 +17,7 @@
     * Adding images to the img folder 
     * adding boxes with images and texts
   * Building Footer
+  * Creating About me and Services pages.
  
 
 

@@ -18,6 +18,4 @@
     * adding boxes with images and texts
   * Building Footer
   * Creating About me and Services pages.
- 
-
-
+ * The website should meet the needs of mobile and desktop users.

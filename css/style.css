@@ -7,7 +7,57 @@ body{
 
   /* Global */
   .container{
-    width:80%;  /* responsive no pixels, % */
-    margin:auto;  /* to be middle when %80*/
+    width:80%; /* responsive no pixels, % */
+    margin:auto; /* to be middle when %80 */
     overflow:hidden;
+  }
+
+  ul{ /* want to all ul no margin no padding by default so moved here */
+    margin:0;
+    padding:0;
+  }
+   
+  /* Header */
+  header{
+    background:#35424a;
+    color:#ffffff;
+    padding-top:30px;
+    min-height:70px; /* responsive height adjustment */
+    border-bottom:#e8491d 3px solid;
+  }
+  
+  header a{
+    color:#ffffff;
+    text-decoration:none; /* remove underline url */
+    text-transform: uppercase;
+    font-size:16px;
+  }
+
+  header li{
+    float:left;
+    display:inline;
+    padding: 0 20px 0 20px;
+  }
+
+  header #branding{
+    float:left;
+  }
+  
+  header #branding h1{
+    margin:0;
+  }
+  
+  header nav{
+    float:right;
+    margin-top:10px;
+  }
+
+  header .highlight, header .current a{
+    color:#e8491d;
+    font-weight:bold;
+  }
+  
+  header a:hover{
+    color:#cccccc;
+    font-weight:bold;
   }

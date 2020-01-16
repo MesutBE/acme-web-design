@@ -16,8 +16,8 @@
 | __CustomizingStyleCSS-5__ | Footer Section Styling | ... | Add style for footer |
 | __AboutHTML-1__ | New Page for About link and Services | Create About and Services pages, and code About Page | ... |
 | __AboutHTML-2__ | About Page Styling | ... | Create styles for about page |
-| ... | New Page for About link and Services | Create About and Services pages, and code About Page | ... |
-| __AboutHTML-3__ | Service Page and media styles| Code Service Page | Styles for media |
+| __AboutHTML-3__ | New Page for About link and Services | Create About and Services pages, and code About Page | ... |
+| __AboutHTML-4__ | Service Page and media styles| Code Service Page | Styles for media |
 
 
 ---

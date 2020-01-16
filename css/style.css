@@ -61,3 +61,21 @@ body{
     color:#cccccc;
     font-weight:bold;
   }
+
+  /* Showcase */
+  #showcase{
+    min-height:400px; /* to be flexible in responsive */
+    background:url('../img/showcase.jpg') no-repeat 0 -400px; /* move the image up with -400 */
+    text-align:center;
+    color:#ffffff;
+  }
+  
+  #showcase h1{
+    margin-top:100px;
+    font-size:55px;
+    margin-bottom:10px;
+  }
+  
+  #showcase p{
+    font-size:20px;
+  }
